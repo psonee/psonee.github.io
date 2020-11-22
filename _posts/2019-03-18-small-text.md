@@ -1,5 +1,5 @@
 ---
-title: test title!
+title: 팀 별 진행사항
 ---
 
-Hi my name is Seongwon
+팀 별 진행사항
