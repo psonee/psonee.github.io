@@ -2,4 +2,4 @@
 title: test title!
 ---
 
-Hi my name is Sanha ^_^
+Hi my name is Seongwon
